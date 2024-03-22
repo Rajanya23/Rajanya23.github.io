@@ -435,9 +435,12 @@ footer a:hover {
     }
 }
 @media screen and (max-width: 768px) {
-    .donet-form {
+    .donate-form {
         flex-direction: column; 
         align-items: center; 
+    }
+    .form-fields {
+        width: 100%;
     }
 }
    
